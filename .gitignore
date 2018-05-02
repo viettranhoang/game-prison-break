@@ -1,0 +1,12 @@
+.metadata
+bin/
+tmp/
+.settings/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.recommenders
+.idea/
