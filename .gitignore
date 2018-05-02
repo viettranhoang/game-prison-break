@@ -1,12 +1,16 @@
-.metadata
-bin/
-tmp/
+# Eclipse
+.classpath
+.project
 .settings/
-*.tmp
-*.bak
-*.swp
-*~.nib
-local.properties
-.loadpath
-.recommenders
+ 
+# Intellij
 .idea/
+*.iml
+*.iws
+ 
+# Mac
+.DS_Store
+ 
+# Maven
+log/
+target/
