@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="ITClubGameJava:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/ITClubGameJava_jar</output-path>
-    <root id="archive" name="ITClubGameJava.jar">
-      <element id="module-output" name="ITClubGameJava" />
-    </root>
-  </artifact>
-</component>
